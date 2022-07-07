@@ -1,7 +1,7 @@
 {
     "id": "io.supernova.documentation-main",
-    "name": "Documentation",
-    "description": "Base Documentation Exporter",
+    "name": "Documentation - SYNAOS",
+    "description": "Base Documentation Exporter - SYNAOS",
     "author": "Jiri Trecak",
     "organization": "Supernova",
     "source_dir": "src",
