@@ -26,6 +26,8 @@
 {* Add search *}
 {[ inject "page_search" context page /]}
 
+<h1>Custom Headline Test</h1>
+
 <!-- Document Wrapper -->
 <div id="main-wrapper"> 
   
